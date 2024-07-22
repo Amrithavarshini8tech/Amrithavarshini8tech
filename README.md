@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amrithavarshini8tech
 - 👀 I’m interested in automation parctices using Selenium, Appium, Rest Assured and Microservices mainly on Java
-- 🌱 I’m currently learning CI/CD,and Typescript automation scripting
+- 🌱 I’m currently learning Jenkins,CI/CD,and Typescript automation scripting
 - 💞️ I’m looking to collaborate on with people with similar interest
 - 📫 How to reach me through my linkedIn - www.linkedin.com/in/amrithavarshini-t-s
 - 😄 Pronouns: He/She
