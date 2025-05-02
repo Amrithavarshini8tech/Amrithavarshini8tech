@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amrithavarshini8tech
-- 👀 I’m interested in automation parctices using Selenium, Appium, Rest Assured and Microservices mainly on Java
+- 👀 I’m interested in automation practices using Selenium, Appium, Rest Assured and Microservices mainly on Java
 - 💞️ I’m looking to collaborate on with people with similar interest
 - 📫 How to reach me through my linkedIn - www.linkedin.com/in/amrithavarshini-t-s
 - 😄 Pronouns: He/She
